@@ -1,5 +1,5 @@
 # personal-assistant-chat-bot-with-rasa       
-A personal assistant bot based on RASA framework         
+A personal assistant bot using RASA framework         
 
 #### An Overview :            
 *This chatbot is capable of doing the following:*                         
